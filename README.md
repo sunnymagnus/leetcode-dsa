@@ -152,7 +152,7 @@ This repo follows a structured 60-day plan:
 ## 🔗 Connect
 
 - LinkedIn: [your-linkedin-url]
-- LeetCode: [your-leetcode-profile]
+- LeetCode: [https://leetcode.com/u/y_not_sunny/]
 
 ---
 
